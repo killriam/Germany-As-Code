@@ -1,2 +1,2 @@
 # Germany-As-Code
-Define and run germany as coe
+Define and run germany as code
